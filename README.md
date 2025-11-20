@@ -1,4 +1,10 @@
-<h1>Hi, I'm Kadyn!
+<h1>Hi, I'm Kadyn!</h1>
+
+  Motivated and technically skilled IT Support and Cybersecurity professional with hands-on experience in help desk operations, hardware configuration, and system troubleshooting. Demonstrated ability to deliver efficient user support, resolve network and software issues, and maintain strong documentation. Proficient in Windows environments, Active Directory management, and cybersecurity fundamentals, supported by professional certifications and personal lab experience.
+
+
+   
+
 
 <h2>👨‍💻 Information Technology Projects/Cyber Secruity Projects:</h2>
 
