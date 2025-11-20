@@ -3,24 +3,24 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - Microsoft sentinel SOC+SIEM home lab
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  -(https://github.com/kadynfinney/Microsoft-Sentinel-SOC-SIEM-home-lab/blob/main/README.md)
 
 <h2> Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
--
+- https://www.coursera.org/account/accomplishments/professional-cert/MBQUVTV7T2LR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof
+- https://www.credly.com/badges/62b53ac1-cf79-4891-b4d6-25529277eeb4
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KadynFinney | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]:https://www.linkedin.com/in/kadyn-finney-759601294
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
