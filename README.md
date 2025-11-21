@@ -6,7 +6,7 @@
    
 
 
-<h2>👨‍💻 Information Technology Projects/Cyber Security Projects:</h2>
+<h2>👨‍💻 Information Technology/Cyber Security Projects:</h2>
 
 - Microsoft sentinel SOC+SIEM home lab
   -(https://github.com/kadynfinney/Microsoft-Sentinel-SOC-SIEM-home-lab/blob/main/README.md)
