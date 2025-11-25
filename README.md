@@ -11,7 +11,7 @@
 - Microsoft sentinel SOC+SIEM home lab
   -(https://github.com/kadynfinney/Microsoft-Sentinel-SOC-SIEM-home-lab/blob/main/README.md)
 - Vunerability managment lab
- 
+ (https://github.com/kadynfinney/Vulnerability-Management-Lab/tree/main)
 
 <h2> Certifications</h2>
 
