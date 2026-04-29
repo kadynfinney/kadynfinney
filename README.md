@@ -12,6 +12,9 @@
   -(https://github.com/kadynfinney/Microsoft-Sentinel-SOC-SIEM-home-lab/blob/main/README.md)
 - Vunerability managment lab
  (https://github.com/kadynfinney/Vulnerability-Management-Lab/tree/main)
+- Splunk DNS and HTTPS Traffic Analysis Lab
+(https://github.com/kadynfinney/Splunk-DNS-and-HTTPS-Traffic-Analysis-Lab)
+
 
 <h2> Certifications</h2>
 
