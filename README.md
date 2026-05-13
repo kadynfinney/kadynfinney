@@ -14,6 +14,8 @@
  (https://github.com/kadynfinney/Vulnerability-Management-Lab/tree/main)
 - Splunk DNS and HTTPS Traffic Analysis Lab
 (https://github.com/kadynfinney/Splunk-DNS-and-HTTPS-Traffic-Analysis-Lab)
+- Azure IT and Cybersecruity Administration Lab
+  (https://github.com/kadynfinney/Azure-IT-and-Cybersecurity-Administration-Lab)
 
 
 <h2> Certifications</h2>
